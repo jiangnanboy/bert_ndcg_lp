@@ -2,7 +2,7 @@
 
 ## 概述
 这里做个尝试，利用bert+ndcg去做链接预测的尝试。大体来説，就是将”头实体“、”关系“以及”尾实体“拼接在一起，它们的输出会通过排序学习中的ndcg进行优化。
-这里得用umls的数据进行测试，umls数据已被处理成排序学习的数据格式，见data/umls/ptrain.csv;ptest.csv;pdev.csv。
+这里利用umls的数据进行测试，umls数据已被处理成排序学习的数据格式，见data/umls/ptrain.csv;ptest.csv;pdev.csv。
 
 处理思路大致是将关系当作query，将头实体、关系以及尾实体当作feature。正样本的label为1，反之label为0。
 
