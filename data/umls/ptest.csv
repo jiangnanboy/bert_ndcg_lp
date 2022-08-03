@@ -1,0 +1,661 @@
+1,6,steroid,interacts with,eicosanoid
+1,3,clinical attribute,is a,conceptual entity
+1,1,body location or region,location of,physiologic function
+1,3,neoplastic process,is a,disease or syndrome
+1,4,carbohydrate,affects,molecular function
+1,4,disease or syndrome,affects,organ or tissue function
+1,17,substance,issue in,occupation or discipline
+1,24,laboratory or test result,evaluation of,genetic function
+1,3,chemical viewed functionally,is a,entity
+1,27,organophosphorus compound,ingredient of,clinical drug
+1,4,mental or behavioral dysfunction,affects,social behavior
+1,7,human caused phenomenon or process,result of,pathologic function
+1,6,amino acid peptide or protein,interacts with,antibiotic
+1,4,hormone,affects,experimental model of disease
+1,4,antibiotic,affects,cell function
+1,18,embryonic structure,part of,bird
+1,11,tissue,produces,organic chemical
+1,14,genetic function,process of,organ or tissue function
+1,18,congenital abnormality,part of,mammal
+1,21,inorganic chemical,causes,cell or molecular dysfunction
+1,16,receptor,disrupts,cell
+1,1,professional society,location of,laboratory procedure
+1,15,organism function,co-occurs with,cell function
+1,21,immunologic factor,causes,cell or molecular dysfunction
+1,4,vitamin,affects,neoplastic process
+1,8,antibiotic,complicates,anatomical abnormality
+1,32,quantitative concept,measurement of,physiologic function
+1,4,pathologic function,affects,biologic function
+1,17,congenital abnormality,issue in,occupation or discipline
+1,41,tissue,adjacent to,body space or junction
+1,16,vitamin,disrupts,organ or tissue function
+1,3,receptor,is a,substance
+1,3,mental process,is a,organism function
+1,26,vertebrate,exhibits,individual behavior
+1,1,body location or region,location of,therapeutic or preventive procedure
+1,17,physical object,issue in,biomedical occupation or discipline
+1,4,inorganic chemical,affects,cell function
+1,4,neoplastic process,affects,vertebrate
+1,4,cell function,affects,mammal
+1,10,population group,uses,medical device
+1,7,human caused phenomenon or process,result of,molecular function
+1,23,pharmacologic substance,treats,neoplastic process
+1,1,embryonic structure,location of,cell or molecular dysfunction
+1,7,experimental model of disease,result of,laboratory procedure
+1,16,enzyme,disrupts,cell function
+1,8,pathologic function,complicates,injury or poisoning
+1,12,mental or behavioral dysfunction,degree of,disease or syndrome
+1,6,plant,interacts with,animal
+1,14,disease or syndrome,process of,pathologic function
+1,7,pathologic function,result of,diagnostic procedure
+1,2,anatomical abnormality,manifestation of,biologic function
+1,2,laboratory or test result,manifestation of,pathologic function
+1,17,fish,issue in,biomedical occupation or discipline
+1,4,carbohydrate,affects,cell or molecular dysfunction
+1,4,biologic function,affects,virus
+1,33,mental process,precedes,cell function
+1,9,experimental model of disease,occurs in,mental or behavioral dysfunction
+1,18,congenital abnormality,part of,bacterium
+1,7,human caused phenomenon or process,result of,physiologic function
+1,1,cell,location of,therapeutic or preventive procedure
+1,14,experimental model of disease,process of,natural phenomenon or process
+1,7,neoplastic process,result of,phenomenon or process
+1,4,neuroreactive substance or biogenic amine,affects,organism function
+1,14,mental or behavioral dysfunction,process of,archaeon
+1,18,congenital abnormality,part of,virus
+1,2,pathologic function,manifestation of,genetic function
+1,21,biologically active substance,causes,mental or behavioral dysfunction
+1,23,pharmacologic substance,treats,disease or syndrome
+1,1,body space or junction,location of,cell function
+1,4,genetic function,affects,virus
+1,7,acquired abnormality,result of,diagnostic procedure
+1,4,physiologic function,affects,archaeon
+1,1,cell component,location of,pathologic function
+1,19,molecular biology research technique,measures,chemical viewed functionally
+1,7,molecular function,result of,human caused phenomenon or process
+1,10,professional or occupational group,uses,manufactured object
+1,16,receptor,disrupts,molecular function
+1,14,organ or tissue function,process of,biologic function
+1,19,molecular biology research technique,measures,element ion or isotope
+1,7,physiologic function,result of,experimental model of disease
+1,11,physiologic function,produces,biologically active substance
+1,18,fully formed anatomical structure,part of,amphibian
+1,8,enzyme,complicates,organism function
+1,1,tissue,location of,virus
+1,3,invertebrate,is a,animal
+1,15,mental process,co-occurs with,genetic function
+1,1,anatomical abnormality,location of,bacterium
+1,1,fully formed anatomical structure,location of,cell or molecular dysfunction
+1,15,organ or tissue function,co-occurs with,genetic function
+1,7,physiologic function,result of,human caused phenomenon or process
+1,7,molecular function,result of,cell or molecular dysfunction
+1,5,diagnostic procedure,associated with,pathologic function
+1,7,physiologic function,result of,neoplastic process
+1,6,lipid,interacts with,pharmacologic substance
+1,11,cell component,produces,receptor
+1,7,physiologic function,result of,congenital abnormality
+1,35,age group,performs,machine activity
+1,5,congenital abnormality,associated with,organism attribute
+1,37,laboratory procedure,analyzes,amino acid peptide or protein
+1,4,vitamin,affects,mental process
+1,18,cell component,part of,organism
+1,3,classification,is a,conceptual entity
+1,7,organism function,result of,pathologic function
+1,11,organism function,produces,vitamin
+1,25,laboratory procedure,diagnoses,mental or behavioral dysfunction
+1,4,carbohydrate,affects,pathologic function
+1,3,cell component,is a,entity
+1,4,pathologic function,affects,organism
+1,4,mental process,affects,bacterium
+1,22,laboratory or test result,indicates,organ or tissue function
+1,11,tissue,produces,body substance
+1,18,cell component,part of,body part organ or organ component
+1,4,molecular function,affects,mental or behavioral dysfunction
+1,6,carbohydrate,interacts with,immunologic factor
+1,5,daily or recreational activity,associated with,acquired abnormality
+1,7,molecular function,result of,disease or syndrome
+1,9,neoplastic process,occurs in,injury or poisoning
+1,18,fully formed anatomical structure,part of,archaeon
+1,4,carbohydrate,affects,mental process
+1,6,element ion or isotope,interacts with,hazardous or poisonous substance
+1,16,injury or poisoning,disrupts,molecular function
+1,6,professional or occupational group,interacts with,population group
+1,4,mental or behavioral dysfunction,affects,archaeon
+1,4,organic chemical,affects,neoplastic process
+1,21,substance,causes,disease or syndrome
+1,21,biologically active substance,causes,disease or syndrome
+1,16,injury or poisoning,disrupts,tissue
+1,17,pathologic function,issue in,occupation or discipline
+1,14,mental or behavioral dysfunction,process of,reptile
+1,2,acquired abnormality,manifestation of,pathologic function
+1,17,element ion or isotope,issue in,biomedical occupation or discipline
+1,5,behavior,associated with,age group
+1,8,disease or syndrome,complicates,cell or molecular dysfunction
+1,11,fully formed anatomical structure,produces,receptor
+1,21,chemical,causes,injury or poisoning
+1,4,mental or behavioral dysfunction,affects,reptile
+1,4,biologic function,affects,organism function
+1,6,antibiotic,interacts with,neuroreactive substance or biogenic amine
+1,4,biologically active substance,affects,mental or behavioral dysfunction
+1,30,laboratory procedure,assesses effect of,genetic function
+1,19,research activity,measures,amino acid peptide or protein
+1,4,disease or syndrome,affects,cell or molecular dysfunction
+1,7,pathologic function,result of,disease or syndrome
+1,9,disease or syndrome,occurs in,mental or behavioral dysfunction
+1,5,social behavior,associated with,patient or disabled group
+1,25,antibiotic,diagnoses,mental or behavioral dysfunction
+1,7,pathologic function,result of,organism function
+1,6,plant,interacts with,reptile
+1,4,mental or behavioral dysfunction,affects,amphibian
+1,25,sign or symptom,diagnoses,mental or behavioral dysfunction
+1,7,biologic function,result of,mental or behavioral dysfunction
+1,4,biologic function,affects,cell or molecular dysfunction
+1,18,anatomical abnormality,part of,vertebrate
+1,6,family group,interacts with,group
+1,14,experimental model of disease,process of,fish
+1,4,mental or behavioral dysfunction,affects,natural phenomenon or process
+1,4,organism function,affects,alga
+1,1,cell component,location of,body space or junction
+1,1,body part organ or organ component,location of,genetic function
+1,4,chemical,affects,genetic function
+1,4,chemical viewed functionally,affects,physiologic function
+1,17,language,issue in,biomedical occupation or discipline
+1,1,body part organ or organ component,location of,organ or tissue function
+1,3,research activity,is a,occupational activity
+1,37,diagnostic procedure,analyzes,hazardous or poisonous substance
+1,9,experimental model of disease,occurs in,group
+1,3,nucleic acid nucleoside or nucleotide,is a,entity
+1,5,diagnostic procedure,associated with,congenital abnormality
+1,5,occupational activity,associated with,cell or molecular dysfunction
+1,7,organ or tissue function,result of,acquired abnormality
+1,4,molecular function,affects,cell function
+1,27,chemical viewed structurally,ingredient of,clinical drug
+1,7,mental or behavioral dysfunction,result of,behavior
+1,6,chemical viewed structurally,interacts with,carbohydrate
+1,4,cell function,affects,neoplastic process
+1,9,pathologic function,occurs in,mental or behavioral dysfunction
+1,35,family group,performs,therapeutic or preventive procedure
+1,11,family group,produces,research device
+1,4,amino acid peptide or protein,affects,mental process
+1,8,hormone,complicates,biologic function
+1,7,anatomical abnormality,result of,health care activity
+1,14,organism function,process of,biologic function
+1,8,immunologic factor,complicates,disease or syndrome
+1,28,nucleotide sequence,property of,nucleic acid nucleoside or nucleotide
+1,1,organization,location of,occupational activity
+1,7,clinical attribute,result of,genetic function
+1,21,vitamin,causes,anatomical abnormality
+1,4,mental or behavioral dysfunction,affects,organ or tissue function
+1,7,neoplastic process,result of,mental or behavioral dysfunction
+1,11,body part organ or organ component,produces,organic chemical
+1,3,virus,is a,organism
+1,14,organ or tissue function,process of,physiologic function
+1,5,individual behavior,associated with,occupation or discipline
+1,4,hazardous or poisonous substance,affects,disease or syndrome
+1,4,cell or molecular dysfunction,affects,physiologic function
+1,16,hormone,disrupts,tissue
+1,4,molecular function,affects,animal
+1,4,physiologic function,affects,molecular function
+1,4,biologic function,affects,physiologic function
+1,22,laboratory or test result,indicates,mental process
+1,4,chemical viewed structurally,affects,organ or tissue function
+1,7,cell function,result of,disease or syndrome
+1,4,amino acid peptide or protein,affects,biologic function
+1,4,experimental model of disease,affects,biologic function
+1,4,biomedical or dental material,affects,biologic function
+1,19,molecular biology research technique,measures,amino acid peptide or protein
+1,4,experimental model of disease,affects,bacterium
+1,4,antibiotic,affects,organ or tissue function
+1,3,human,is a,mammal
+1,35,population group,performs,daily or recreational activity
+1,36,cell component,conceptual part of,body system
+1,18,cell,part of,reptile
+1,4,organ or tissue function,affects,human
+1,6,indicator reagent or diagnostic aid,interacts with,chemical
+1,7,cell or molecular dysfunction,result of,organism function
+1,19,molecular biology research technique,measures,eicosanoid
+1,19,molecular biology research technique,measures,natural phenomenon or process
+1,7,organism attribute,result of,disease or syndrome
+1,23,pharmacologic substance,treats,injury or poisoning
+1,4,genetic function,affects,biologic function
+1,26,group,exhibits,individual behavior
+1,7,human caused phenomenon or process,result of,phenomenon or process
+1,4,antibiotic,affects,genetic function
+1,6,hormone,interacts with,enzyme
+1,14,pathologic function,process of,archaeon
+1,6,bird,interacts with,mammal
+1,16,neuroreactive substance or biogenic amine,disrupts,organ or tissue function
+1,21,carbohydrate,causes,cell or molecular dysfunction
+1,4,cell function,affects,disease or syndrome
+1,18,cell,part of,fungus
+1,14,organism function,process of,human
+1,8,receptor,complicates,mental or behavioral dysfunction
+1,3,genetic function,is a,molecular function
+1,12,mental or behavioral dysfunction,degree of,cell or molecular dysfunction
+1,28,group attribute,property of,family group
+1,25,pharmacologic substance,diagnoses,experimental model of disease
+1,4,pathologic function,affects,alga
+1,1,tissue,location of,biologic function
+1,15,organism function,co-occurs with,mental process
+1,5,occupational activity,associated with,neoplastic process
+1,4,indicator reagent or diagnostic aid,affects,genetic function
+1,6,carbohydrate,interacts with,biomedical or dental material
+1,9,organism function,occurs in,temporal concept
+1,21,inorganic chemical,causes,anatomical abnormality
+1,4,cell or molecular dysfunction,affects,organism function
+1,26,amphibian,exhibits,social behavior
+1,18,anatomical structure,part of,alga
+1,3,lipid,is a,entity
+1,7,cell or molecular dysfunction,result of,disease or syndrome
+1,5,social behavior,associated with,professional or occupational group
+1,11,cell,produces,hormone
+1,3,invertebrate,is a,entity
+1,21,organic chemical,causes,cell or molecular dysfunction
+1,7,acquired abnormality,result of,human caused phenomenon or process
+1,2,pathologic function,manifestation of,disease or syndrome
+1,17,chemical viewed functionally,issue in,occupation or discipline
+1,15,experimental model of disease,co-occurs with,anatomical abnormality
+1,30,laboratory procedure,assesses effect of,element ion or isotope
+1,19,diagnostic procedure,measures,cell function
+1,17,chemical viewed structurally,issue in,occupation or discipline
+1,4,genetic function,affects,disease or syndrome
+1,15,laboratory or test result,co-occurs with,sign or symptom
+1,6,amino acid peptide or protein,interacts with,chemical viewed functionally
+1,18,cell,part of,bacterium
+1,4,cell function,affects,clinical attribute
+1,18,fully formed anatomical structure,part of,plant
+1,6,chemical viewed structurally,interacts with,lipid
+1,19,molecular biology research technique,measures,molecular function
+1,6,fungus,interacts with,organism
+1,6,enzyme,interacts with,vitamin
+1,2,congenital abnormality,manifestation of,mental or behavioral dysfunction
+1,8,therapeutic or preventive procedure,complicates,pathologic function
+1,4,chemical,affects,organ or tissue function
+1,1,virus,location of,hormone
+1,11,organ or tissue function,produces,hormone
+1,1,alga,location of,neuroreactive substance or biogenic amine
+1,4,laboratory procedure,affects,organ or tissue function
+1,14,pathologic function,process of,invertebrate
+1,21,manufactured object,causes,cell or molecular dysfunction
+1,4,neoplastic process,affects,rickettsia or chlamydia
+1,7,cell or molecular dysfunction,result of,acquired abnormality
+1,4,genetic function,affects,plant
+1,3,alga,is a,physical object
+1,35,family group,performs,laboratory procedure
+1,12,disease or syndrome,degree of,cell or molecular dysfunction
+1,26,reptile,exhibits,social behavior
+1,4,therapeutic or preventive procedure,affects,patient or disabled group
+1,24,qualitative concept,evaluation of,individual behavior
+1,10,population group,uses,regulation or law
+1,21,antibiotic,causes,cell or molecular dysfunction
+1,9,cell or molecular dysfunction,occurs in,mental or behavioral dysfunction
+1,2,acquired abnormality,manifestation of,genetic function
+1,3,bacterium,is a,entity
+1,9,experimental model of disease,occurs in,age group
+1,21,immunologic factor,causes,congenital abnormality
+1,19,laboratory procedure,measures,pharmacologic substance
+1,4,disease or syndrome,affects,fish
+1,7,biologic function,result of,neoplastic process
+1,5,therapeutic or preventive procedure,associated with,acquired abnormality
+1,11,cell,produces,vitamin
+1,14,mental process,process of,vertebrate
+1,7,mental process,result of,neoplastic process
+1,25,diagnostic procedure,diagnoses,cell or molecular dysfunction
+1,1,rickettsia or chlamydia,location of,vitamin
+1,2,neoplastic process,manifestation of,pathologic function
+1,33,disease or syndrome,precedes,neoplastic process
+1,7,physiologic function,result of,natural phenomenon or process
+1,32,laboratory or test result,measurement of,food
+1,30,diagnostic procedure,assesses effect of,element ion or isotope
+1,21,vitamin,causes,cell or molecular dysfunction
+1,3,carbohydrate sequence,is a,idea or concept
+1,7,human caused phenomenon or process,result of,injury or poisoning
+1,21,element ion or isotope,causes,cell or molecular dysfunction
+1,21,organic chemical,causes,congenital abnormality
+1,7,human caused phenomenon or process,result of,experimental model of disease
+1,8,experimental model of disease,complicates,mental or behavioral dysfunction
+1,3,organ or tissue function,is a,natural phenomenon or process
+1,3,nucleotide sequence,is a,molecular sequence
+1,4,physiologic function,affects,fungus
+1,3,experimental model of disease,is a,phenomenon or process
+1,2,cell or molecular dysfunction,manifestation of,injury or poisoning
+1,21,clinical drug,causes,acquired abnormality
+1,1,cell component,location of,genetic function
+1,5,occupational activity,associated with,disease or syndrome
+1,5,laboratory or test result,associated with,anatomical abnormality
+1,35,age group,performs,social behavior
+1,1,fully formed anatomical structure,location of,physiologic function
+1,6,hormone,interacts with,vitamin
+1,33,molecular function,precedes,organism function
+1,3,human caused phenomenon or process,is a,event
+1,35,professional or occupational group,performs,diagnostic procedure
+1,15,disease or syndrome,co-occurs with,injury or poisoning
+1,11,mental process,produces,biologically active substance
+1,11,molecular function,produces,hormone
+1,8,neoplastic process,complicates,congenital abnormality
+1,7,neoplastic process,result of,mental process
+1,17,eicosanoid,issue in,biomedical occupation or discipline
+1,3,health care related organization,is a,entity
+1,3,cell function,is a,biologic function
+1,37,diagnostic procedure,analyzes,pharmacologic substance
+1,8,immunologic factor,complicates,genetic function
+1,33,physiologic function,precedes,genetic function
+1,8,immunologic factor,complicates,physiologic function
+1,14,mental or behavioral dysfunction,process of,mammal
+1,22,immunologic factor,indicates,neoplastic process
+1,14,neoplastic process,process of,genetic function
+1,4,biologic function,affects,fish
+1,4,organ or tissue function,affects,bird
+1,7,mental or behavioral dysfunction,result of,environmental effect of humans
+1,8,hazardous or poisonous substance,complicates,neoplastic process
+1,7,cell or molecular dysfunction,result of,social behavior
+1,7,experimental model of disease,result of,human caused phenomenon or process
+1,6,element ion or isotope,interacts with,vitamin
+1,21,drug delivery device,causes,injury or poisoning
+1,1,fully formed anatomical structure,location of,fungus
+1,1,fully formed anatomical structure,location of,bacterium
+1,7,natural phenomenon or process,result of,disease or syndrome
+1,8,enzyme,complicates,experimental model of disease
+1,2,individual behavior,manifestation of,mental or behavioral dysfunction
+1,3,geographic area,is a,idea or concept
+1,3,tissue,is a,fully formed anatomical structure
+1,25,sign or symptom,diagnoses,experimental model of disease
+1,5,educational activity,associated with,pathologic function
+1,4,receptor,affects,biologic function
+1,15,organ or tissue function,co-occurs with,physiologic function
+1,11,mental or behavioral dysfunction,produces,vitamin
+1,7,experimental model of disease,result of,physiologic function
+1,8,hormone,complicates,physiologic function
+1,38,self help or relief organization,carries out,educational activity
+1,3,environmental effect of humans,is a,event
+1,21,chemical,causes,disease or syndrome
+1,25,diagnostic procedure,diagnoses,congenital abnormality
+1,18,cell component,part of,human
+1,7,experimental model of disease,result of,health care activity
+1,2,laboratory or test result,manifestation of,experimental model of disease
+1,32,organism attribute,measurement of,mental process
+1,4,cell function,affects,genetic function
+1,18,anatomical structure,part of,plant
+1,7,natural phenomenon or process,result of,pathologic function
+1,7,congenital abnormality,result of,experimental model of disease
+1,11,organism function,produces,receptor
+1,21,food,causes,neoplastic process
+1,4,hormone,affects,genetic function
+1,17,diagnostic procedure,issue in,biomedical occupation or discipline
+1,14,organ or tissue function,process of,mental or behavioral dysfunction
+1,6,bird,interacts with,archaeon
+1,37,laboratory procedure,analyzes,organophosphorus compound
+1,6,animal,interacts with,organism
+1,30,laboratory procedure,assesses effect of,disease or syndrome
+1,6,plant,interacts with,alga
+1,20,therapeutic or preventive procedure,prevents,neoplastic process
+1,8,congenital abnormality,complicates,anatomical abnormality
+1,16,antibiotic,disrupts,organism function
+1,35,age group,performs,daily or recreational activity
+1,18,gene or genome,part of,plant
+1,6,amino acid peptide or protein,interacts with,neuroreactive substance or biogenic amine
+1,21,pharmacologic substance,causes,pathologic function
+1,17,lipid,issue in,occupation or discipline
+1,21,research device,causes,anatomical abnormality
+1,14,disease or syndrome,process of,alga
+1,7,anatomical abnormality,result of,cell function
+1,23,antibiotic,treats,experimental model of disease
+1,8,antibiotic,complicates,mental process
+1,7,injury or poisoning,result of,cell function
+1,33,physiologic function,precedes,organ or tissue function
+1,7,genetic function,result of,human caused phenomenon or process
+1,32,quantitative concept,measurement of,mental process
+1,21,fungus,causes,pathologic function
+1,1,rickettsia or chlamydia,location of,immunologic factor
+1,6,eicosanoid,interacts with,element ion or isotope
+1,21,inorganic chemical,causes,neoplastic process
+1,17,anatomical structure,issue in,biomedical occupation or discipline
+1,8,immunologic factor,complicates,injury or poisoning
+1,23,drug delivery device,treats,injury or poisoning
+1,3,research device,is a,entity
+1,6,biologically active substance,interacts with,neuroreactive substance or biogenic amine
+1,6,organophosphorus compound,interacts with,biologically active substance
+1,4,molecular function,affects,amphibian
+1,15,mental or behavioral dysfunction,co-occurs with,injury or poisoning
+1,2,neoplastic process,manifestation of,experimental model of disease
+1,1,bacterium,location of,biologically active substance
+1,6,organic chemical,interacts with,biomedical or dental material
+1,4,physiologic function,affects,natural phenomenon or process
+1,3,laboratory procedure,is a,health care activity
+1,8,neoplastic process,complicates,anatomical abnormality
+1,4,anatomical abnormality,affects,vertebrate
+1,2,clinical attribute,manifestation of,organ or tissue function
+1,18,embryonic structure,part of,fungus
+1,6,inorganic chemical,interacts with,enzyme
+1,15,mental or behavioral dysfunction,co-occurs with,experimental model of disease
+1,8,enzyme,complicates,neoplastic process
+1,2,sign or symptom,manifestation of,organ or tissue function
+1,15,organ or tissue function,co-occurs with,molecular function
+1,3,age group,is a,group
+1,4,steroid,affects,neoplastic process
+1,26,age group,exhibits,behavior
+1,2,disease or syndrome,manifestation of,physiologic function
+1,3,diagnostic procedure,is a,event
+1,16,biologically active substance,disrupts,gene or genome
+1,2,anatomical abnormality,manifestation of,mental process
+1,7,cell function,result of,physiologic function
+1,14,mental process,process of,human
+1,17,chemical,issue in,biomedical occupation or discipline
+1,6,alga,interacts with,human
+1,4,vitamin,affects,biologic function
+1,11,fully formed anatomical structure,produces,carbohydrate
+1,7,environmental effect of humans,result of,acquired abnormality
+1,7,disease or syndrome,result of,human caused phenomenon or process
+1,6,organic chemical,interacts with,steroid
+1,14,cell or molecular dysfunction,process of,natural phenomenon or process
+1,18,anatomical abnormality,part of,animal
+1,10,diagnostic procedure,uses,drug delivery device
+1,31,molecular biology research technique,method of,diagnostic procedure
+1,21,biologically active substance,causes,injury or poisoning
+1,4,anatomical abnormality,affects,plant
+1,14,molecular function,process of,invertebrate
+1,19,diagnostic procedure,measures,pharmacologic substance
+1,4,element ion or isotope,affects,molecular function
+1,7,mental or behavioral dysfunction,result of,neoplastic process
+1,3,machine activity,is a,activity
+1,6,nucleic acid nucleoside or nucleotide,interacts with,hormone
+1,4,laboratory procedure,affects,neoplastic process
+1,3,biomedical or dental material,is a,chemical
+1,4,pathologic function,affects,animal
+1,21,receptor,causes,pathologic function
+1,21,indicator reagent or diagnostic aid,causes,anatomical abnormality
+1,4,neuroreactive substance or biogenic amine,affects,cell or molecular dysfunction
+1,4,cell function,affects,rickettsia or chlamydia
+1,1,embryonic structure,location of,virus
+1,4,therapeutic or preventive procedure,affects,cell function
+1,6,human,interacts with,organism
+1,21,fungus,causes,disease or syndrome
+1,11,cell,produces,receptor
+1,11,population group,produces,regulation or law
+1,35,family group,performs,research activity
+1,21,vitamin,causes,injury or poisoning
+1,17,molecular sequence,issue in,biomedical occupation or discipline
+1,17,steroid,issue in,biomedical occupation or discipline
+1,6,bacterium,interacts with,fish
+1,7,cell function,result of,mental process
+1,28,organism attribute,property of,mammal
+1,2,anatomical abnormality,manifestation of,disease or syndrome
+1,7,cell or molecular dysfunction,result of,environmental effect of humans
+1,4,physiologic function,affects,mammal
+1,18,fully formed anatomical structure,part of,bird
+1,6,organic chemical,interacts with,hormone
+1,17,idea or concept,issue in,occupation or discipline
+1,10,patient or disabled group,uses,research device
+1,21,receptor,causes,acquired abnormality
+1,7,biologic function,result of,disease or syndrome
+1,6,biologically active substance,interacts with,enzyme
+1,3,physiologic function,is a,biologic function
+1,8,antibiotic,complicates,cell function
+1,16,hazardous or poisonous substance,disrupts,mental process
+1,33,pathologic function,precedes,cell or molecular dysfunction
+1,28,organism attribute,property of,organism
+1,6,organophosphorus compound,interacts with,carbohydrate
+1,1,bacterium,location of,receptor
+1,7,organ or tissue function,result of,experimental model of disease
+1,1,fully formed anatomical structure,location of,organism function
+1,3,finding,is a,conceptual entity
+1,3,congenital abnormality,is a,entity
+1,17,tissue,issue in,biomedical occupation or discipline
+1,7,natural phenomenon or process,result of,neoplastic process
+1,2,organism attribute,manifestation of,organ or tissue function
+1,8,therapeutic or preventive procedure,complicates,cell function
+1,11,population group,produces,medical device
+1,6,antibiotic,interacts with,biologically active substance
+1,21,antibiotic,causes,acquired abnormality
+1,11,cell function,produces,vitamin
+1,4,neoplastic process,affects,physiologic function
+1,7,environmental effect of humans,result of,mental or behavioral dysfunction
+1,4,organ or tissue function,affects,organism function
+1,4,lipid,affects,pathologic function
+1,4,laboratory procedure,affects,mental process
+1,16,biologically active substance,disrupts,cell component
+1,2,finding,manifestation of,organism function
+1,4,organism function,affects,bird
+1,4,genetic function,affects,physiologic function
+1,7,cell function,result of,genetic function
+1,4,antibiotic,affects,physiologic function
+1,21,organophosphorus compound,causes,pathologic function
+1,4,natural phenomenon or process,affects,genetic function
+1,11,neoplastic process,produces,receptor
+1,19,laboratory procedure,measures,biomedical or dental material
+1,32,organism attribute,measurement of,molecular function
+1,4,physiologic function,affects,biologic function
+1,7,experimental model of disease,result of,neoplastic process
+1,6,alga,interacts with,virus
+1,1,congenital abnormality,location of,fungus
+1,25,antibiotic,diagnoses,cell or molecular dysfunction
+1,19,diagnostic procedure,measures,temporal concept
+1,7,mental or behavioral dysfunction,result of,biologic function
+1,8,pharmacologic substance,complicates,biologic function
+1,16,pharmacologic substance,disrupts,organism function
+1,7,anatomical abnormality,result of,injury or poisoning
+1,1,fully formed anatomical structure,location of,molecular function
+1,6,nucleic acid nucleoside or nucleotide,interacts with,antibiotic
+1,3,neuroreactive substance or biogenic amine,is a,biologically active substance
+1,14,experimental model of disease,process of,bacterium
+1,6,neuroreactive substance or biogenic amine,interacts with,chemical
+1,4,cell or molecular dysfunction,affects,bird
+1,3,laboratory or test result,is a,conceptual entity
+1,5,pathologic function,associated with,organism attribute
+1,15,acquired abnormality,co-occurs with,injury or poisoning
+1,10,professional or occupational group,uses,drug delivery device
+1,25,professional or occupational group,diagnoses,experimental model of disease
+1,12,cell or molecular dysfunction,degree of,neoplastic process
+1,17,neoplastic process,issue in,biomedical occupation or discipline
+1,7,disease or syndrome,result of,mental process
+1,14,neoplastic process,process of,bird
+1,7,pathologic function,result of,anatomical abnormality
+1,2,congenital abnormality,manifestation of,disease or syndrome
+1,7,organism attribute,result of,neoplastic process
+1,17,injury or poisoning,issue in,occupation or discipline
+1,21,receptor,causes,mental or behavioral dysfunction
+1,28,clinical attribute,property of,bacterium
+1,4,nucleic acid nucleoside or nucleotide,affects,experimental model of disease
+1,21,lipid,causes,congenital abnormality
+1,6,chemical viewed structurally,interacts with,chemical viewed functionally
+1,20,antibiotic,prevents,pathologic function
+1,3,eicosanoid,is a,organic chemical
+1,16,biologically active substance,disrupts,organ or tissue function
+1,4,organ or tissue function,affects,genetic function
+1,4,antibiotic,affects,neoplastic process
+1,1,fully formed anatomical structure,location of,virus
+1,24,qualitative concept,evaluation of,activity
+1,18,embryonic structure,part of,cell
+1,16,enzyme,disrupts,tissue
+1,5,governmental or regulatory activity,associated with,disease or syndrome
+1,1,gene or genome,location of,mental process
+1,14,neoplastic process,process of,organism function
+1,17,pharmacologic substance,issue in,biomedical occupation or discipline
+1,8,receptor,complicates,disease or syndrome
+1,14,disease or syndrome,process of,genetic function
+1,1,anatomical abnormality,location of,virus
+1,18,embryonic structure,part of,vertebrate
+1,4,organism function,affects,experimental model of disease
+1,21,manufactured object,causes,mental or behavioral dysfunction
+1,18,cell,part of,body part organ or organ component
+1,7,molecular function,result of,experimental model of disease
+1,23,medical device,treats,acquired abnormality
+1,4,disease or syndrome,affects,human
+1,1,body part organ or organ component,location of,molecular function
+1,9,disease or syndrome,occurs in,neoplastic process
+1,3,vitamin,is a,chemical viewed functionally
+1,17,cell component,issue in,occupation or discipline
+1,11,cell component,produces,nucleic acid nucleoside or nucleotide
+1,3,bacterium,is a,organism
+1,9,cell or molecular dysfunction,occurs in,injury or poisoning
+1,17,hazardous or poisonous substance,issue in,occupation or discipline
+1,1,organization,location of,educational activity
+1,11,tissue,produces,biologically active substance
+1,3,fungus,is a,physical object
+1,7,organism function,result of,phenomenon or process
+1,3,organism function,is a,biologic function
+1,6,organic chemical,interacts with,nucleic acid nucleoside or nucleotide
+1,4,organic chemical,affects,natural phenomenon or process
+1,5,diagnostic procedure,associated with,neoplastic process
+1,11,molecular function,produces,neuroreactive substance or biogenic amine
+1,14,mental or behavioral dysfunction,process of,bird
+1,4,chemical viewed structurally,affects,biologic function
+1,11,experimental model of disease,produces,biologically active substance
+1,5,mental or behavioral dysfunction,associated with,organism attribute
+1,37,laboratory procedure,analyzes,neuroreactive substance or biogenic amine
+1,3,organic chemical,is a,substance
+1,4,mental or behavioral dysfunction,affects,plant
+1,5,daily or recreational activity,associated with,experimental model of disease
+1,33,mental process,precedes,organ or tissue function
+1,4,chemical,affects,neoplastic process
+1,27,hormone,ingredient of,clinical drug
+1,3,hormone,is a,biologically active substance
+1,19,molecular biology research technique,measures,receptor
+1,33,experimental model of disease,precedes,neoplastic process
+1,6,pharmacologic substance,interacts with,neuroreactive substance or biogenic amine
+1,6,virus,interacts with,fish
+1,4,acquired abnormality,affects,virus
+1,7,pathologic function,result of,molecular function
+1,1,embryonic structure,location of,fungus
+1,4,pharmacologic substance,affects,cell or molecular dysfunction
+1,7,biologic function,result of,acquired abnormality
+1,15,neoplastic process,co-occurs with,anatomical abnormality
+1,7,neoplastic process,result of,acquired abnormality
+1,11,body part organ or organ component,produces,body substance
+1,14,cell or molecular dysfunction,process of,mental or behavioral dysfunction
+1,17,educational activity,issue in,occupation or discipline
+1,2,pathologic function,manifestation of,neoplastic process
+1,21,virus,causes,pathologic function
+1,8,injury or poisoning,complicates,experimental model of disease
+1,6,eicosanoid,interacts with,pharmacologic substance
+1,7,molecular function,result of,natural phenomenon or process
+1,11,neoplastic process,produces,tissue
+1,30,diagnostic procedure,assesses effect of,vitamin
+1,2,anatomical abnormality,manifestation of,organ or tissue function
+1,27,hazardous or poisonous substance,ingredient of,clinical drug
+1,4,organophosphorus compound,affects,cell or molecular dysfunction
+1,19,laboratory procedure,measures,organism attribute
+1,6,chemical viewed functionally,interacts with,immunologic factor
+1,25,diagnostic procedure,diagnoses,disease or syndrome
+1,8,injury or poisoning,complicates,disease or syndrome
+1,7,molecular function,result of,congenital abnormality
+1,4,biologic function,affects,bacterium
+1,11,organism function,produces,hormone
+1,5,individual behavior,associated with,neoplastic process
+1,4,natural phenomenon or process,affects,cell function
+1,5,daily or recreational activity,associated with,pathologic function
+1,1,fully formed anatomical structure,location of,rickettsia or chlamydia
+1,4,organ or tissue function,affects,pathologic function
+1,4,neoplastic process,affects,amphibian
+1,9,acquired abnormality,occurs in,age group
+1,4,mental process,affects,organism attribute
+1,19,molecular biology research technique,measures,neoplastic process
+1,9,disease or syndrome,occurs in,patient or disabled group
+1,4,mental or behavioral dysfunction,affects,mammal
+1,3,environmental effect of humans,is a,phenomenon or process
+1,33,cell or molecular dysfunction,precedes,experimental model of disease
+1,3,laboratory or test result,is a,entity
+1,6,virus,interacts with,archaeon
+1,21,indicator reagent or diagnostic aid,causes,mental or behavioral dysfunction
+1,18,anatomical structure,part of,fungus
+1,14,cell or molecular dysfunction,process of,bird
