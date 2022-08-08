@@ -10,7 +10,7 @@
 
 数据处理见data/process.py
 
-训练数据示例如下，其中各列为label、query、head、relation以及tail。
+训练数据示例如下，其中各列为label、query、head、relation以及tail，格式与ltr的格式类似，不同是feature这块是以字符串形式给出。
 
 ```
 1,1,acquired abnormality,location of,experimental model of disease
